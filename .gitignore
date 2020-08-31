@@ -1,0 +1,7 @@
+*.o
+.deps
+.dirstamp
+
+.DS_Store
+.vscode
+JC1_SDK_SRC_FLP/build/win32/.vs/
